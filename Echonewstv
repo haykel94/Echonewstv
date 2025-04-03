@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Echo News TV</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f4; }
+        header { background-color: #004AAD; color: white; padding: 20px; }
+        section { padding: 20px; }
+        .contact a { margin: 0 10px; text-decoration: none; color: #FFD700; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Echo News TV</h1>
+        <p>شركة إنتاج سمعي بصري ومؤسسة إعلامية تقدم محتويات وأخبار حصرية في تونس والعالم</p>
+    </header>
+    
+    <section>
+        <h2>من نحن</h2>
+        <p>نحن شركة إنتاج سمعي بصري ومؤسسة إعلامية نسعى لتقديم أفضل المحتويات الإخبارية</p>
+    </section>
+    
+    <section class="contact">
+        <h2>تواصل معنا</h2>
+        <a href="#">فيسبوك</a> |
+        <a href="#">إنستغرام</a> |
+        <a href="#">تيك توك</a> |
+        <a href="#">يوتيوب</a>
+    </section>
+</body>
+</
